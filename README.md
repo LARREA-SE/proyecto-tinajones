@@ -29,4 +29,6 @@ main.py
    ```
 
 ## Integrantes
-- Apellidos y Nombres
+-Bazan Gamarra Franco 
+-Carlos Rodriguez Yadira
+-Larrea Reluz Samuel 
