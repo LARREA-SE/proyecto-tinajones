@@ -29,6 +29,6 @@ main.py
    ```
 
 ## Integrantes
--Bazan Gamarra Franco 
--Carlos Rodriguez Yadira
--Larrea Reluz Samuel 
+- Bazan Gamarra Franco 
+- Carlos Rodriguez Yadira
+- Larrea Reluz Samuel 
